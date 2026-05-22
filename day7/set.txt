@@ -1,0 +1,56 @@
+set
+------
+unorder
+mutable
+unique elements
+Heterogenius
+properties
+union -->  |
+intersection ---> & common elements
+difference  (-)
+symmetric difference (^)
+sub set :{1,2,3,4}<a
+super set :{1,2,3,4}>a
+disjoint
+methods
+add
+remove
+clear
+pop
+discard
+
+Conditional statments
+------------------------
+simple if
+if cond:
+    #statements
+if-else
+if cond:
+    #True stmts
+else:
+    #False stmts
+
+elif
+if c1:
+   stmt
+elif c2:
+   stmt
+     . 
+     .
+elif cn:
+    stmt
+else:
+   final stmt
+
+Nested if
+if condition:
+     if condition:
+          if condition:
+          else:
+     elif:
+else:
+
+
+
+
+
