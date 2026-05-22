@@ -1,0 +1,32 @@
+tuple
+-------
+order  ,immutable ,fixed data ,allow duplicate ,heter
+packing & unpacking
+slicing
+indexing
+tuple Methods
+sorted()
+sum()
+len
+min
+max
+count
+
+DICT
+------
+key,value
+mutable
+ordered
+keys:unique , val: no restructions
+key:immutable,val: no restructions
+data
+{'user id': 97, 'user_name': 'Dinesh', 'skills': ['python', 'Java', 'sql'], 'cgpa': 8.6}
+data['user id']=102
+data
+{'user id': 102, 'user_name': 'Dinesh', 'skills': ['python', 'Java', 'sql'], 'cgpa': 8.6}
+
+OPERATIONS
+------------
+Membership operator
+
+in dict we can add,modify,delete  from 5 - 6:30 practice 

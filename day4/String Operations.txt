@@ -1,0 +1,16 @@
+String Operations
+
+1.Concatination-joining two strigs
+2.Repitation - a*5
+3.Indexing & Slicing -- a[0],a[1:5],a[-1],a[:-1]
+4.Membership - in, not in
+
+Methods
+
+1.length
+2.sorted
+3.case conversion -> upper(),lower(),captilise(),tittle(),casefold(),swap().
+4.find #find will not give error
+5.index #index will give you error
+6.count #count the values that how many times it repeating
+7.replace & modify
