@@ -1,0 +1,19 @@
+import keywords
+print(keywords.kwlist)
+print(len(keywords.kwlist))
+
+DATA TYPES
+#NUM
+int - 1,2,3,4
+float - 1.0,2.3,4.4 .
+complex
+
+#SEQ
+str - strings can be declear in single 'Name' , double "string"
+list -[10,20,30] mutable
+tuple - immutable , fixed data , t = (12.342,78,4587)
+
+#Mapping
+set - (frozen set)don't follow order, no change ,mutable, no duplicates #s=(12,11,334)
+dict - {'name':'porsche','vechile':'car','model':'2026'}
+boolen - True or false
