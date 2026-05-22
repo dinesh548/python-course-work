@@ -1,0 +1,10 @@
+TYPE CONVERSION
+int -> float,complex,bool,str
+float ->int,complex,str,bool
+complex ->bool
+string ->list,tuple,set,bool(if there is a number then we can convert into int,float,complex)
+list -> tuple,set,bool,str
+tuples -> list,set,bool,str
+set -> str,list,bool,tuple
+dict ->str,set,list,bool
+bool -> int,float,str,complex
